@@ -24,7 +24,9 @@ GIF预览
 
 使用介绍&注意事项
 方法一：
-下载使用lookcos动态桌面便携版，直接运行exe即可。点击下载
+下载使用lookcos动态桌面便携版，直接运行exe即可。
+
+http://look.hackhx.com/EXE/LookCos_DJS.zip
 
 优点：便携快速，仅5M，不适合老年机使用。
 
