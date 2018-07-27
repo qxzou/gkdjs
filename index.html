@@ -1,0 +1,40 @@
+﻿<html>
+ <head> 
+  <link rel="stylesheet" href="./css/www.lookcos.cn.css" /> 
+  <script src="./js/jquery.min.js"></script> 
+  <script src="./js/www.lookcos.cn.js"></script> 
+ </head> 
+ <body> 
+  <div id="clock"> 
+   <p style="color:EEE8AA;" class="time">距离<l id="te"></l>年高考仅有</p> 
+   <script type="text/javascript">
+		var myDate = new Date();
+		var	nowyear=myDate.getFullYear()+1;
+		document.getElementById('te').innerHTML=nowyear; 
+	</script> 
+   <p class="date"> </p>
+   <div class="clock" style="margin:2em;"></div> 
+   <p></p> 
+   <p><font face="arial" color="red"></font></p>
+   <p class="Author"><font face="arial" color="red">WWW.LOOKCOS.CN</font></p>
+   <p></p> 
+  </div> 
+  <script type="text/javascript">
+		
+		
+			var clock;
+
+			$(document).ready(function() {
+				var myDate = new Date();
+				var	year=myDate.getFullYear()+1,month=6,day=7;
+				var currentDate = new Date();
+				var futureDate = new Date(year, month-1, day, 9); 
+				var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
+				clock = $('.clock').FlipClock(diff, {
+					clockFace: 'DailyCounter',
+					countdown: true
+				});
+			});
+		</script>  
+ </body>
+</html>
