@@ -2,7 +2,7 @@
 高考倒计时网页，可以作为动态桌面壁纸
 GIF预览  
 注意，推荐最佳分辨率为 1920*1080，大部分笔记本电脑可能不适应。
-![avatar](https://www.lookcos.cn/wp-content/uploads/2018/07/GIF.gif)
+![avatar](https://raw.githubusercontent.com/LookCos/gkdjs/master/Preview%20Picture/GIF.gif)
 推荐教学平板与家用台式机安装。
 
 
@@ -43,7 +43,7 @@ virscan报告：http://r.virscan.org/language/zh-cn/report/d6ac1167e0149b5658ef1
 下载UPUPOO动态壁纸软件，然后搜索 高考倒计时 找到我的即可
 
  
-![avatar](https://www.lookcos.cn/wp-content/uploads/2018/07/1-1.png)
+![avatar](https://raw.githubusercontent.com/LookCos/gkdjs/master/Preview%20Picture/1-1.png)
 
 名字叫 高考倒计时最新版-全自动更新-原作者入驻UPUPOO 这个 好像是名字差不多 背景是蓝色的就对了
 
