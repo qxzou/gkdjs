@@ -40,8 +40,11 @@ http://look.hackhx.com/EXE/LookCos_DJS.zip
 
 程序无毒无副作用，仅仅用户添加开机启动时会申请管理员权限。
 关于报毒：程序加了个壳故而有的杀毒软件会报毒，已经提交360、电脑管家处理！
+
 腾讯哈勃文件分析：https://habo.qq.com/file/showdetail?pk=AD0GY11vB2QIP1s5
+
 virscan报告：http://r.virscan.org/language/zh-cn/report/d6ac1167e0149b5658ef16a499f78aed
+
 程序MD5：6d04e26936d299457cb1a8cdaa6b9ae5
 ### 方法二：
 下载UPUPOO动态壁纸软件，然后搜索 高考倒计时 找到我的即可
