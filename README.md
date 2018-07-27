@@ -3,6 +3,7 @@
 GIF预览  
 注意，推荐最佳分辨率为 1920*1080，大部分笔记本电脑可能不适应。
 ![avatar](https://raw.githubusercontent.com/LookCos/gkdjs/master/Preview%20Picture/GIF.gif)
+
 推荐教学平板与家用台式机安装。
 
 
