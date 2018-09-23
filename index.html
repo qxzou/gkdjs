@@ -6,7 +6,7 @@
  </head> 
  <body> 
   <div id="clock"> 
-   <p style="color:EEE8AA;" class="time">距离<l id="te"></l>年高考仅有</p> 
+   <p style="color:EEE8AA;" class="time">距离<l id="te"></l>年考研仅有</p> 
    <script type="text/javascript">
 		var myDate = new Date();
 		var	nowyear=myDate.getFullYear()+1;
@@ -26,7 +26,7 @@
 
 			$(document).ready(function() {
 				var myDate = new Date();
-				var	year=myDate.getFullYear()+1,month=6,day=7;
+				var	year=myDate.getFullYear(),month=12,day=22;
 				var currentDate = new Date();
 				var futureDate = new Date(year, month-1, day, 9); 
 				var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
